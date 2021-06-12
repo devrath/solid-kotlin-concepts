@@ -1,3 +1,5 @@
+package demos
+
 class DemoComparisionOperators {
 
     init { initiate() }

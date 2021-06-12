@@ -1,3 +1,5 @@
+package demos
+
 class DemoStrings {
 
     init { initiate() }
