@@ -1,4 +1,7 @@
-import demos.DemoCustomAccessors
+import demos.DemoCompanionObject
+
 fun main(args: Array<String>) {
-    DemoCustomAccessors()
+    println(DemoCompanionObject.globalValue)
+    DemoCompanionObject.globalFunction()
+
 }
