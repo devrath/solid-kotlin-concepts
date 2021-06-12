@@ -1,7 +1,4 @@
-import demos.DemoMap
-import demos.DemoSet
-
+import demos.DemoCustomAccessors
 fun main(args: Array<String>) {
-    println("Start!")
-    DemoSet()
+    DemoCustomAccessors()
 }
