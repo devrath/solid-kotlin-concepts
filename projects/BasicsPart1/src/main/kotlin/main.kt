@@ -1,7 +1,5 @@
-import demos.DemoCompanionObject
+import demos.DemoEnum
 
 fun main(args: Array<String>) {
-    println(DemoCompanionObject.globalValue)
-    DemoCompanionObject.globalFunction()
-
+    DemoEnum()
 }
